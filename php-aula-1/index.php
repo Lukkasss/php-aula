@@ -10,6 +10,6 @@ echo $numero;
 
 echo '<br>Hello World';
 echo "<br>" . IP;
-echo "O resultado da soma é: 
+echo "O resultado da soma é: . ($num1 + $num2);
 
 ?>
